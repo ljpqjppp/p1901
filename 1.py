@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+111111
+mastermaster
+>>>>>>> master
 devdev
 dddddddddd
 ljpljpljp
